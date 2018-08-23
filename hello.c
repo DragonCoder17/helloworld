@@ -1,5 +1,5 @@
 /**
- * Author: Noah Anderson and Manuel Paredes-Castaneda
+ * Author: Manuel Paredes-Castaneda
  * Date: 2018/21/08
  *
  * A simple hello world program in C
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Noah Anderson and Manuel Paredes-Castaneda\n");
+  printf("Manuel Paredes-Castaneda: Pre-Engineering\n");
 
   return 0;
 }
