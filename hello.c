@@ -1,5 +1,5 @@
 /**
- * Author: Manuel Paredes-Castaneda
+ * Authors: Manuel Paredes-Castaneda and Noah Anderson
  * Date: 2018/21/08
  *
  * A simple hello world program in C
